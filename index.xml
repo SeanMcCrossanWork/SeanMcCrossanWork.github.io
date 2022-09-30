@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://SeanMcCrossanWork.github.io/talk/example-talk/</link>
+      <title>Sentiment analysis in the 2008 Market Crash</title>
+      <link>https://SeanMcCrossanWork.github.io/talk/sentiment-analysis-in-the-2008-market-crash/</link>
       <pubDate>Sun, 16 Oct 2022 13:00:00 +0000</pubDate>
-      <guid>https://SeanMcCrossanWork.github.io/talk/example-talk/</guid>
+      <guid>https://SeanMcCrossanWork.github.io/talk/sentiment-analysis-in-the-2008-market-crash/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
 convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
@@ -48,7 +48,7 @@ location: TU Dublin
 projects:&lt;/li&gt;
 &lt;li&gt;example
 publishDate: &amp;ldquo;2017-01-01T00:00:00Z&amp;rdquo;
-slides: financial_markets_research_methods
+slides: example
 summary: An example talk using Wowchemy&amp;rsquo;s Markdown slides feature.
 tags: [Sentiment Analysis, Financial Markets, Statitical Analysis]
 title: Example Talk
