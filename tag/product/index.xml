@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product | Sean McCrossan</title>
+    <link>https://SeanMcCrossanWork.github.io/tag/product/</link>
+      <atom:link href="https://SeanMcCrossanWork.github.io/tag/product/index.xml" rel="self" type="application/rss+xml" />
+    <description>Product</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SeanMcCrossanWork.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Product</title>
+      <link>https://SeanMcCrossanWork.github.io/tag/product/</link>
+    </image>
+    
+    <item>
+      <title>Data Polish</title>
+      <link>https://SeanMcCrossanWork.github.io/project/example/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://SeanMcCrossanWork.github.io/project/example/</guid>
+      <description>&lt;h2 id=&#34;project-summary-data-polish---bridging-the-gap-to-data-science-for-non-technicals&#34;&gt;Project Summary: Data Polish - Bridging the Gap to Data Science for Non-Technicals&lt;/h2&gt;
+&lt;p&gt;In the evolving field of data science, the gap between technical expertise and the increasing demand for data-driven decision-making is more apparent. Recognizing this challenge, the Data Polish tool was conceived as a bridge for individuals with non-technical backgrounds making their foray into data science. My dual role as Project Manager and Primary Data Science Developer allowed me to steer this project towards addressing the core needs of our target users.&lt;/p&gt;
+&lt;h3 id=&#34;key-features-and-technical-details&#34;&gt;Key Features and Technical Details:&lt;/h3&gt;
+&lt;p&gt;Data Polish was designed with two main functionalities to enhance the user experience and streamline the data analysis process. The first, a data profile dashboard, developed using D3.js, provided users with an intuitive interface for assessing the quality and structure of their data at a glance. D3.js allowed us to craft interactive, customizable visualizations that could dynamically respond to user data, offering a more engaging and insightful experience than static visuals or traditional reporting tools could provide. This choice of technology ensured that users could easily explore their data, identify patterns, and pinpoint areas requiring attention, all within an intuitive interface.&lt;/p&gt;
+&lt;p&gt;The second feature comprised over 20 data cleaning functions, developed in Python, aimed at tackling common data preparation challenges. These functions covered a wide range of tasks, from handling missing values to correcting data types, thereby enabling users to refine their datasets with efficiency and precision. This suite of tools was particularly appreciated for its potential to streamline workflows, allowing users to focus more on analysis and less on the preparatory steps.&lt;/p&gt;
+&lt;h3 id=&#34;user-feedback-and-future-directions&#34;&gt;User Feedback and Future Directions:&lt;/h3&gt;
+&lt;p&gt;Feedback from users was overwhelmingly positive, particularly regarding the usability of the dashboard and the comprehensive nature of the data cleaning functions. These components were lauded for their effectiveness in facilitating a smoother transition into data analysis tasks. However, Data Polish was not without its areas for improvement. Users identified several outstanding issues and suggested additional features that could further enhance the tool&amp;rsquo;s utility.&lt;/p&gt;
+&lt;h3 id=&#34;legacy-and-evolution-into-emerald-insights&#34;&gt;Legacy and Evolution into Emerald Insights:&lt;/h3&gt;
+&lt;p&gt;The development and reception of Data Polish were instrumental in laying the groundwork for our next venture, Emerald Insights. This subsequent project aimed to build upon the lessons learned and successes achieved with Data Polish, focusing on delivering augmented analytics solutions tailored to niche industries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

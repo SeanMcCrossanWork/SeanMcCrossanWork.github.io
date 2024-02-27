@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualisation | Sean McCrossan</title>
+    <link>https://SeanMcCrossanWork.github.io/tag/visualisation/</link>
+      <atom:link href="https://SeanMcCrossanWork.github.io/tag/visualisation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visualisation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SeanMcCrossanWork.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Visualisation</title>
+      <link>https://SeanMcCrossanWork.github.io/tag/visualisation/</link>
+    </image>
+    
+    <item>
+      <title>Irish Property Market Dashboard</title>
+      <link>https://SeanMcCrossanWork.github.io/project/external-project/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://SeanMcCrossanWork.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
