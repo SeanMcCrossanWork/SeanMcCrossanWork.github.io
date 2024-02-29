@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflection | Sean McCrossan</title>
+    <link>https://SeanMcCrossanWork.github.io/tag/reflection/</link>
+      <atom:link href="https://SeanMcCrossanWork.github.io/tag/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reflection</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SeanMcCrossanWork.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Reflection</title>
+      <link>https://SeanMcCrossanWork.github.io/tag/reflection/</link>
+    </image>
+    
+    <item>
+      <title>Lessons from Data Polish</title>
+      <link>https://SeanMcCrossanWork.github.io/post/learning-from-data-polish/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://SeanMcCrossanWork.github.io/post/learning-from-data-polish/</guid>
+      <description>&lt;p&gt;Following the initial completion of Data Polish, I engaged in conversations with  project members and advisors, posing the perennial question: &amp;ldquo;If you had to do it all over again, what would you change?&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Feedback from the project team highlighted several technical challenges encountered during the project, including regrets about not utilizing Docker in conjunction with an EC2 container from the outset, rather than attempting to implement a Flask API. Despite these specific technical insights, this article aims to explore broader lessons learned and areas for improvement. Through this detailed examination of my experiences, I hope to crystallize my thoughts on what we could have done differently, providing a foundation for reflection and growth.&lt;/p&gt;
+&lt;h3 id=&#34;refining-our-understanding-of-target-users&#34;&gt;Refining Our Understanding of Target Users&lt;/h3&gt;
+&lt;p&gt;In retrospect, the consideration given to the specific needs of our target users for Data Polish was insufficient. Initially, we chose students as our primary user base due to the convenience of accessing a readily available group for feedback. However, this decision overlooked critical factors:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Market Saturation&lt;/strong&gt;: The landscape for no-code data cleaning resources is already densely populated with options catering to students, making it challenging for our product to stand out.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;User Diversity&lt;/strong&gt;: Labeling &amp;quot; data science students&amp;quot; as our target users was overly broad. Among these students, many possess competent coding skills and may not find a long-term benefit from our solution, underscoring a mismatch between our product offering and their needs.&lt;/p&gt;
+&lt;p&gt;Reflecting on these insights, it becomes clear that a more nuanced approach to understanding user demographics could have significantly enhanced the product&amp;rsquo;s success. Specifically, individuals transitioning from non-technical backgrounds, such as those with a commerce background moving into data science, represented a more aligned and potentially receptive audience. Tailoring Data Polish to meet the unique challenges and learning curves faced by this segment could have resulted in a product that was not only more focused but also more impactful for its intended users.&lt;/p&gt;
+&lt;h3 id=&#34;prioritizing-the-critical-path-in-project-management&#34;&gt;Prioritizing the Critical Path in Project Management&lt;/h3&gt;
+&lt;p&gt;Reflecting on my role in project management for future oportunities, I recognize the importance of emphasizing the critical tasks that drive milestone achievement. During this project, we occasionally lost sight of this priority, leading to situations where team members were unclear about their essential responsibilities.&lt;/p&gt;
+&lt;p&gt;This oversight particularly affected the progress of the data preparation UI development, which was a prerequisite for the backend team to proceed with evaluating and testing their new functions. The individual assigned to the UI was not informed of its urgency, and their focus was diverted elsewhere, causing a bottleneck for the backend team.&lt;/p&gt;
+&lt;p&gt;This misalignment resulted in a delay, ultimately pushing back the project&amp;rsquo;s final delivery beyond our initial timeline. Moving forward, ensuring clear communication and alignment on critical path tasks will be a cornerstone of my project management strategy to prevent similar setbacks.&lt;/p&gt;
+&lt;h3 id=&#34;reevaluating-the-balance-between-front-end-and-back-end-development&#34;&gt;Reevaluating the Balance Between Front-End and Back-End Development&lt;/h3&gt;
+&lt;p&gt;My background has predominantly been in backend development, and I initially underestimated the complexity and significance of front-end work, dismissing it as superficial. However, my involvement in this project has shifted my perspective, highlighting the critical role of intuitive UI and front-end design for user engagement.&lt;/p&gt;
+&lt;p&gt;The initial oversight of front-end development cost us valuable early feedback and forced us into a reactive position.
+While backend functionality is crucial, it&amp;rsquo;s the front-end that users interact with directly; without a tangible interface to engage with, assessing the success of the backend becomes challenging. Moving forward, I would advocate for a more balanced approach between front and backend development, perhaps with a greater emphasis on the front-end. This shift would facilitate early user interaction with the planned functionality but also ensure the collection of essential feedback to guide further development.&lt;/p&gt;
+&lt;h3 id=&#34;reliance-on-ai-tools&#34;&gt;Reliance on AI Tools&lt;/h3&gt;
+&lt;p&gt;In the course of our project, we encountered challenges stemming from an uncritical reliance on AI tools by team members. They would frequently return with completed assignments, yet lacked a fundamental understanding of the underlying processes and problem. This gap in comprehension became apparent when problems arose in their original code, leaving them at a loss for where to begin with troubleshooting.&lt;/p&gt;
+&lt;p&gt;A notable instance involved a data quality scoring mechanism that persistently generated inaccurate scores for data with high cardinality, mistakenly signaling it as undesirable despite the general preference for low cardinality in predictors. When the issue was raised with the developer responsible for this component, it became clear he was unable to address the problem. The root of the problem was their reliance on Chat GPT to devise the scoring logic, without a grasp on how to amend the code.&lt;/p&gt;
+&lt;p&gt;This experience underscored the importance of maintaining a critical perspective when employing AI. While AI tools can enhance productivity and efficiency, a deep understanding of their output is essential. Without this insight, the risk of misinterpretation and errors increases, potentially leading to significant setbacks in the project&amp;rsquo;s progress.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
